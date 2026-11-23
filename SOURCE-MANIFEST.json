@@ -1,0 +1,71 @@
+{
+  "snapshot_date": "2026-11-23",
+  "source": "local-source-snapshot-not-live-export",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 304,
+      "sha256": "087f7bbb79e1e42fb8a080380cfd25b891711ab5051df2a1e9583b1249d20140"
+    },
+    {
+      "path": "app.js",
+      "bytes": 14913,
+      "sha256": "ff71d31be93faf453b7520a67ab1f83aedb72108d42f2babe2bfb614cc77cd0f"
+    },
+    {
+      "path": "config/server.env.example",
+      "bytes": 94,
+      "sha256": "4c3801fcf90efd9993ef9836fc02809e96af84089c0837887149b5ffa7abc734"
+    },
+    {
+      "path": "device_manager.py",
+      "bytes": 4882,
+      "sha256": "e9d403fb72964c838cd2e45066dfc41e0214a7e678fa264de3a8852f0d3a6c74"
+    },
+    {
+      "path": "features.js",
+      "bytes": 9783,
+      "sha256": "b8c9588de919f1c2b504893c14e09c06be7555811305a5898dd4ab641c464da7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10419,
+      "sha256": "b0015de8cd75fec17428940b094edcdafb5b452c8f33ff4933949481d8d47cc4"
+    },
+    {
+      "path": "provider_browser.py",
+      "bytes": 16158,
+      "sha256": "edcce94fdc14331db34db14089fd1587a10bba00c52e41fe2b65308f23539b38"
+    },
+    {
+      "path": "provider_settings.py",
+      "bytes": 2949,
+      "sha256": "1210cc4a3bdb3764d667c868e7398888d933ebefb3a0475a43a6a4114e6db7f5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3219,
+      "sha256": "35e73b9ddbbd146868bed2a3548a53c1ea27d1887dd5efb35757769ce4729b07"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 13,
+      "sha256": "28d693f929f62b8bb135a11b7ba9987439f7a960cc969e32f8cb567c1ef79c97"
+    },
+    {
+      "path": "router_names.py",
+      "bytes": 1898,
+      "sha256": "85596913031b814ddb8775230e82947efbe1d9e68e5e62a442e022f846eaf5fb"
+    },
+    {
+      "path": "server.py",
+      "bytes": 16485,
+      "sha256": "6b7cb06df5f01b3d3f8c20c78667efdf5f90933d9112f932971179f7ee45a0ce"
+    },
+    {
+      "path": "style.css",
+      "bytes": 10813,
+      "sha256": "b5e6baa4fa37b45d819905e696c6ea3857e5d1c15f36faebe1c34a05d41f8839"
+    }
+  ]
+}
